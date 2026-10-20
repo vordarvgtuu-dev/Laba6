@@ -1,0 +1,4 @@
+﻿  DZlab6.c
+C:\Users\PC-DASHA\source\repos\DZlab6\DZlab6.c(13,23): warning C4013: has_five: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\PC-DASHA\source\repos\DZlab6\DZlab6.c(35,1): warning C4715: has_five: значение возвращается не при всех путях выполнения
+  DZlab6.vcxproj -> C:\Users\PC-DASHA\source\repos\Laba6\x64\Debug\DZlab6.exe
