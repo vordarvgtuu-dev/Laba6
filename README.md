@@ -38,7 +38,7 @@ int has_five(int n) {
 
     while (temp > 0) {
         if (temp % 10 == 5) {
-            return 1; // Нашли пятерку — сразу выходим из функции
+            return 1; 
         }
         temp = temp / 10;
     }
